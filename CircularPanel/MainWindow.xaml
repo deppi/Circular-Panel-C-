@@ -1,0 +1,34 @@
+﻿<Window x:Class="CircularPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:circluarPanel="clr-namespace:CircularPanel"
+        Title="MainWindow" Height="530" Width="700"
+        x:Name="myWindow">
+    <Window.Resources>
+        <Style x:Key="buttonStyle" TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="Padding" Value="4, 2"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="44*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Slider x:Name="AngleSlider" Minimum="0" Maximum="360" Grid.ColumnSpan="2" Grid.Row="0"></Slider>
+        <circluarPanel:MyCircularPanel Angle="{Binding ElementName=AngleSlider, Path=Value}"
+                                       Grid.ColumnSpan="2" Grid.Row="1" x:Name="myCircularPanel" VerticalAlignment="Top">
+            <Rectangle Fill="Red" Width="25" Height="50" MouseUp="Rectangle_MouseUp"></Rectangle>
+            <Rectangle Fill="Blue" Width="75" Height="50" MouseUp="Rectangle_MouseUp"></Rectangle>
+            <Rectangle Fill="Orange" Width="50" Height="25" MouseUp="Rectangle_MouseUp"></Rectangle>
+            <Rectangle Fill="Green" Width="50" Height="75" MouseUp="Rectangle_MouseUp"></Rectangle>
+        </circluarPanel:MyCircularPanel>
+        <Button Style="{StaticResource buttonStyle}" x:Name="addRectangleButton" Grid.Column="0" Grid.Row="2" Content="Add Rectangle" Click="addRectangleButton_Click"></Button>
+        <Button Style="{StaticResource buttonStyle}" x:Name="removeRectangleButton" Grid.Column="1" Grid.Row="2" Content="Remove Rectangle" Click="removeRectangleButton_Click"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\bin\Release\CircularPanel.exe.config
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\bin\Release\CircularPanel.exe
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\bin\Release\CircularPanel.pdb
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.csprojResolveAssemblyReference.cache
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\App.baml
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\MainWindow.g.cs
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\App.g.cs
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel_MarkupCompile.cache
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel_MarkupCompile.lref
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\MainWindow.baml
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.g.resources
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.Properties.Resources.resources
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.csproj.GenerateResource.Cache
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.exe
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Release\CircularPanel.pdb

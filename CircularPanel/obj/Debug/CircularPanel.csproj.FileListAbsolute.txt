@@ -1,0 +1,16 @@
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\bin\Debug\CircularPanel.exe.config
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.csprojResolveAssemblyReference.cache
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\MainWindow.g.cs
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\App.g.cs
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel_MarkupCompile.cache
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel_MarkupCompile.lref
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\bin\Debug\CircularPanel.exe
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\bin\Debug\CircularPanel.pdb
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\MainWindow.baml
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.g.resources
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.Properties.Resources.resources
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.csproj.GenerateResource.Cache
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.exe
+C:\Users\gbremner\documents\visual studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\CircularPanel.pdb
+C:\Users\gbremner\Documents\Visual Studio 2012\Projects\CircularPanel\CircularPanel\obj\Debug\App.baml
